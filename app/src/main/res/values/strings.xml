@@ -2,4 +2,7 @@
     <string name="app_name">Linear_layout_app</string>
     <string name="name">About App</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done!</string>
+    <string name="spin1">something</string>
 </resources>
