@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Linear_layout_app</string>
+    <string name="name">About App</string>
+    <string name="yellow_star">Yellow star</string>
+</resources>
